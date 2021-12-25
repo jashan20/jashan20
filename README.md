@@ -1,7 +1,7 @@
 ### Hi there 👋 Jashandeep Singh
 
 - 🌱 I’m currently learning Machine Learning & Data Science.
-- 👯 I’m looking to collaborate on Maxhine learning projects.
+- 👯 I’m looking to collaborate on Machine learning projects.
 - 📫 How to reach me: jashan21000@gmail.com
 
 <!--
